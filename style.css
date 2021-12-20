@@ -1,0 +1,27 @@
+
+body,
+html {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  /* for you to do */
+}
+
+.middle {
+  width: 100%;
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+#time {
+  /* for you to do */
+}
+
+#date {
+  /* for you to do */
+}
