@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "My New Tab",
+  "description": "My custom new tab page for Google Chrome!",
+  "version": "1.0.0",
+  "chrome_url_overrides": {
+    "newtab": "public/index.html"
+  },
+  "permissions": [
+    "bookmarks",
+    "tabs"
+  ]
+}
